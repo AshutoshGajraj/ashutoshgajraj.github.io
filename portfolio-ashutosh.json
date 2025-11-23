@@ -1,0 +1,269 @@
+{
+  "name": "Ashutosh Gajraj",
+  "label": "AI Enthusiast",
+  "image_path": "portfolio_media/profile.jpeg",
+  "contact": {
+    "email": "gajrajashutosh23@gmail.com",
+    "phone": "+9779842116573",
+    "location": "Dhulikhel, Kavre"
+  },
+  "summary": "I am a motivated student pursuing my studies in artificial intelligence, which is also said to be the upcoming ‘Industrial Revolution’. I want to be at the forefront of research in AI, pushing the boundaries of current technology and develop technologies which is beneficial to the society. I see artificial intelligence as a transformative force which has the ability to change the way society functions currently. I want to be a part of this exciting technology which holds limitless potential. ",
+  "social_links": [
+    {
+      "label": "Linkedin",
+      "url": "https://www.linkedin.com/in/ashutoshgajraj/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "YouTube",
+      "url": "http://www.youtube.com/@ASHUTOSHGAJRAJ",
+      "svg_path": "img/youtube.svg"
+    },
+    {
+      "label": "Facebook",
+      "url": "https://www.facebook.com/un.knowl.58/",
+      "svg_path": "img/facebook.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/AshutoshGajraj",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "experiences": [
+    {
+      "company": "KUAIC (Kathmandu University Artificial Intelligence Club)",
+      "position": "Secretary",
+      "url": "https://aiclub.ku.edu.np",
+      "start_date": "Jan 31, 2025",
+      "end_date": "Present",
+      "summary": "",
+      "highlights": [
+        "Currently serving as the general secretary for the KUAI Club for the year 2025.",
+        "Maintaining proper event reports and meeting’s documentations and managing correspondence.",
+        "Have organized events like bootcamps, workshops for general members in collaboration with KUAI Club executives."
+      ]
+    },
+    {
+      "company": "AI Crusade",
+      "position": "Documentation Team",
+      "url": "https://aiclub.ku.edu.np/aiconvergence/",
+      "start_date": "Nov 30, 2024",
+      "end_date": "Dec 01, 2024",
+      "summary": "",
+      "highlights": [
+        "Wrote a complete documentation of the event describing its objectives and impacts on pushing technological innovation in our society",
+        "Interacted with the participants and recorded their experience, feedbacks and and summary of their projects",
+        "Volunteered in the event to help successfully carry out the program"
+      ]
+    },
+    {
+      "company": "Xavier STEM Club",
+      "position": "Deputy Secretary",
+      "url": "https://www.facebook.com/xavierstemclub",
+      "start_date": "2022",
+      "end_date": "2023",
+      "summary": "Served as a deputy secretary general in my high school’s STEM club and helped organize various workshops, competitions like inter-school Mathematics Olympiads",
+      "highlights": [
+        "Conducted weekly club-meetings to discuss about various club-agendas and wrote minutes about the meeting’s briefing, summary and club’s future works.",
+        "Wrote proposals to seek permission from the school’s principal for organizing events",
+        "Successfully conducted Xavier Mathematics Olympiad 2.0 in November, 2022"
+      ]
+    },
+    {
+      "company": "Xavier Innovation And Entrepreneurship Club",
+      "position": "Executive/Board Member",
+      "url": "https://www.facebook.com/profile.php?id=100084849860578",
+      "start_date": "2022",
+      "end_date": "2023",
+      "summary": "Served as a executive/board member in Xavier Innovation and Entrepreneurship Club during high school and helped conduct workshops and events",
+      "highlights": [
+        "Participated in weekly club-meetings to discuss and share ideas/advices about clubs activities and future plans",
+        "Helped organize a workshop on innovation and entrepreneurship as an organising committee in December, 2022"
+      ]
+    },
+    {
+      "company": "Xavier International College, A levels",
+      "position": "Class Representative",
+      "url": "https://www.facebook.com/xavierstemclub",
+      "start_date": "2022",
+      "end_date": "2023",
+      "summary": "Served as a class representative in high school for a year",
+      "highlights": [
+        "Participated in Student’s Representative Seminar conducted in July, 2022.",
+        "Helped manage the classroom during teacher’s absence",
+        "Relayed information and updates to my classmates regarding academics and college",
+        "Recorded each class period’s timing and syllabus taught daily"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Medicinal Herbs Classification",
+      "summary": "",
+      "url": "https://github.com/AshutoshGajraj",
+      "highlights": ["Developed a deep learning model using ResNet50, DenseNet121, and VGG16 to classify 96 classes of medicinal plants.", 
+      "Faced data collection challenges due to rare high-altitude plants and plan to expand dataset for further accuracy improvement."],
+      "images": [
+        {
+          "img_path": "portfolio_media/preprocessing.png",
+          "caption": "Preprocessing"
+        },
+        {
+          "img_path": "portfolio_media/confusion_matrix.png",
+          "caption": "Confusion Matrix"
+        },
+        {
+          "img_path": "portfolio_media/inference.png",
+          "caption": "Inference example"
+        }
+      ]
+    },
+    {
+      "title": "Nepali News Summarizer and Text-to-Speech (TTS)",
+      "summary": "",
+      "url": "https://github.com/AshutoshGajraj",
+      "highlights": ["Fine-tuned XTTSv2 for Nepali language, utilizing google’s open source dataset of recorded audio and transcriptions", 
+      "Built a Streamlit web app that summarizes Nepali news articles and converts summaries into speech using TTS",
+      "Integrated file upload and text input options for flexible user interaction and efficient information consumption."],
+      "images": [
+        {
+          "img_path": "portfolio_media/architecture.png",
+          "caption": "Architecture"
+        },
+        {
+          "img_path": "portfolio_media/webapp_interface.png",
+          "caption": "Webapp Interface"
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kathmandu University",
+      "location": "Dhulikhel, Kavre",
+      "url": "https://ku.edu.np",
+      "degrees": "B.Tech in Artificial Intelligence",
+      "gpa_cumulative": "Sem I: 4.0, Sem II : 3.89, Sem III: 3.77, Sem IV: Result pending",
+      "graduation_date": "2027"
+    },
+    {
+      "institution": "Xavier International College",
+      "location": "Kalopul, Kathmandu",
+      "url": "https://alevel.xavier.edu.np",
+      "degrees": "A Levels",
+      "gpa_cumulative": "Grades: A*, A*, A, A",
+      "graduation_date": "2023"
+    },
+    {
+      "institution": "Little Angels’ School",
+      "location": "Hattiban, Lalitpur",
+      "url": "https://las.edu.np",
+      "degrees": "Secondary Education Examination",
+      "gpa_cumulative": "4.0",
+      "graduation_date": "2021"
+    },
+    {
+      "institution": "Little Angels’ School",
+      "location": "Hattiban, Lalitpur",
+      "url": "https://las.edu.np",
+      "degrees": "Basic Level Examination",
+      "gpa_cumulative": "3.68",
+      "graduation_date": "2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, C, C++",
+      "proficiency": 50,
+      "proficiency_label": "Intermediate"
+    },
+    {
+      "name": "Machine Learning, Deep Learning",
+      "proficiency": 20,
+      "proficiency_label": "Intermediate Beginner"
+    },
+    {
+      "name": "JavaScript, HTML, CSS",
+      "proficiency": 0,
+      "proficiency_label": "Absolute Beginner"
+    },
+    {
+      "name": "Git, Github",
+      "proficiency": 20,
+      "proficiency_label": "Intermediate Beginner"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Programming",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/programming.jpg",
+          "caption": "Programming Bootcamp"
+        }
+      ]
+    },
+    {
+      "name": "Sports: Football, Cricket and Basketball",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/football.jpg",
+          "caption": "Participated in KUAIC Kickoff Futsal 2025"
+        }
+      ]
+    },
+    {
+      "name": "Reading Books, Biographies",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/rich.webp",
+          "caption": "One of my best financial reads"
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/GoldHonor.jpg",
+          "caption": "Received gold honor in inter-college Xavier Maths Olympiad"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }, 
+    {
+      "language": "Nepali",
+      "fluency": "Fluent"      
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner"      
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"      
+    } 
+  ],
+  "references": [
+     {
+      "name": "James Prasad",
+      "relation": "Academic Adviser\nXavier International College A Levels, Kalopul, Kathmandu",
+      "reference": "pd.james@xavier.edu.np"
+    },
+    {
+      "name": "Ashim Shrestha", 
+      "relation": "President, Kathmandu University Artificial Intelligence Club ",
+      "reference": "ashimshrestha423@gmail.com"
+    } 
+  ]
+}
